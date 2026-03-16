@@ -12,3 +12,4 @@ Faculty of Electronics, University of Niš
 Semester: 6  
 Course: Systems Programming  
 Study program: Computer Science and Informatics  
+Team members: Draga Jović, Mila Jović
