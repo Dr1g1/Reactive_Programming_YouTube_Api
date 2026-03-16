@@ -8,7 +8,7 @@ namespace YoutubeCommentAPI
 {
     internal class URLSettings
     {
-        private readonly string apiKey = "AIzaSyAf6mjDCUSfhf7RvT0GfXxQuDGvfqboA30";
+        private readonly string apiKey = "INSERT HERE API KEY";
         private readonly int PortNum = 5050;
         private readonly string basicUrl = "https://www.googleapis.com/youtube/v3/commentThreads";
 
